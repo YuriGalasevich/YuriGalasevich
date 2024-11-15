@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is ✨ Jurij Galasevic ✨, a passionate 2D, 3D Web and Mobile Developer. As an experienced developer with a deep understanding of React, React Native, Node.js, TypeScript, Web3 and various Web and Mobile game engines with over 5 years of experience, I strongly believe that I would be an asset to your team.
+This is ✨ Jurij Galasevic ✨, a highly skilled Full-Stack Developer with over 10 years of experience, specializing in React, Next.js, Node.js, Laravel, and blockchain technologies like Solidity and Rust. Your expertise spans building scalable applications, integrating secure systems, and delivering innovative solutions for industries such as real estate, gaming, and finance. With a strong focus on performance, security, and user experience, you excel in developing robust platforms and contributing to cutting-edge projects.
 
 My expertise in React and React Native includes proficiency in Redux for state management, React Router for navigation, and React Hooks for functional components. I have worked on several React Native projects, using Expo, React Native CLI and custom native modules for Android and iOS platforms.
 
